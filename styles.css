@@ -1,0 +1,33 @@
+/*selector{
+    /*property-name: value;*/
+
+input{
+padding: 10px 15px;
+border: 1.5px rgb(59, 38, 11);
+}
+
+form div{
+    margin-bottom: 1rem; 
+}
+form label{
+    margin-left: 1rem;
+}
+button{
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/*style for table*/
+table{
+border-collapse: collapse;
+}
+
+tr, th, td{
+    border: 1px solid green;
+    padding: 1rem;
+    text-align: center;
+}
